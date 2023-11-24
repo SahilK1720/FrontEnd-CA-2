@@ -25,14 +25,14 @@ The intstructions to play the game are as follows:
 - If there are no more moves available, press D to deal again and play to win.
 
 The resources I have used are-
- -flaticon.com
- -w3schools.com
- -Youtube.com
- -/codepen.io/SgiobairOg/pen/MOmaRy
- -//codepen.io/Mobius1/pen/PpJPKE
- -//codepen.io/bfa/pen/ggGYeE
- -//github.com/warpdesign/html5-solitaire-js
- -//github.com/ozboware/Javascript-Aces-Up-Solitaire
+ - flaticon.com
+ - w3schools.com
+ - Youtube.com
+ - codepen.io/SgiobairOg/pen/MOmaRy
+ - codepen.io/Mobius1/pen/PpJPKE
+ - codepen.io/bfa/pen/ggGYeE
+ - github.com/warpdesign/html5-solitaire-js
+ - github.com/ozboware/Javascript-Aces-Up-Solitaire
 
 
 ![Start](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/c5b2ccc9-d8ba-40b0-a0e0-b99a34a610af)
