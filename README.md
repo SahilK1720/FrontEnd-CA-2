@@ -10,19 +10,19 @@ Controls:
 
 
 The intstructions to play the game are as follows:
--The game begins with cards already dealt into seven piles. Each pile has a face-up card, and the remaining deck forms the stock.
--Your goal is to move all the cards to the foundation piles in ascending order, separated by suit.
--Examine the seven tableau piles.
--You can move cards within these piles to reveal hidden cards.
--To move the cards, drag the card and drop it where you want to place the card.
--Identify the four foundation piles at the top. Start building them with Aces, following with 2s, 3s, and so on, up to Kings.
--Draw cards from the stock to the waste pile by clicking or tapping on the stock.
--Use the top card from the waste pile or draw additional cards when needed.
--Move cards within the tableau piles in descending order and alternating colors. For example, place a red 7 on a black 8 .
--Empty tableau spaces can be filled with a King or a sequence starting with a King.
--Move cards to the foundation piles in ascending order and by suit.
--The game is won when all cards are successfully moved to the foundation piles in the correct order.
--If there are no more moves available, press D to deal again and play to win.
+- The game begins with cards already dealt into seven piles. Each pile has a face-up card, and the remaining deck forms the stock.
+- Your goal is to move all the cards to the foundation piles in ascending order, separated by suit.
+- Examine the seven tableau piles.
+- You can move cards within these piles to reveal hidden cards.
+- To move the cards, drag the card and drop it where you want to place the card.
+- Identify the four foundation piles at the top. Start building them with Aces, following with 2s, 3s, and so on, up to Kings.
+- Draw cards from the stock to the waste pile by clicking or tapping on the stock.
+- Use the top card from the waste pile or draw additional cards when needed.
+- Move cards within the tableau piles in descending order and alternating colors. For example, place a red 7 on a black 8 .
+- Empty tableau spaces can be filled with a King or a sequence starting with a King.
+- Move cards to the foundation piles in ascending order and by suit.
+- The game is won when all cards are successfully moved to the foundation piles in the correct order.
+- If there are no more moves available, press D to deal again and play to win.
 
 The resources I have used are-
  -flaticon.com
