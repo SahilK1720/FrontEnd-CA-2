@@ -26,17 +26,18 @@ The resources I have used are-
  -flaticon.com
  -w3schools.com
  -Youtube.com
- -https:/codepen.io/SgiobairOg/pen/MOmaRy
- -https://codepen.io/Mobius1/pen/PpJPKE
- -https://codepen.io/bfa/pen/ggGYeE
- -https://github.com/warpdesign/html5-solitaire-js
- -https://github.com/ozboware/Javascript-Aces-Up-Solitaire
+ -/codepen.io/SgiobairOg/pen/MOmaRy
+ -//codepen.io/Mobius1/pen/PpJPKE
+ -//codepen.io/bfa/pen/ggGYeE
+ -//github.com/warpdesign/html5-solitaire-js
+ -//github.com/ozboware/Javascript-Aces-Up-Solitaire
 
 
 ![Start](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/c5b2ccc9-d8ba-40b0-a0e0-b99a34a610af)
+![Instructions](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/10395b4f-3281-4321-a734-9fec3d1989ba)
 ![Game](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/e92a6ff5-c9ad-482d-836d-a65b803c6063)
 ![Result](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/0593e6b4-4c7f-4497-98d2-b63fa773ac7e)
-![Instructions](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/10395b4f-3281-4321-a734-9fec3d1989ba)
+
 
  
  
