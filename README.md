@@ -2,6 +2,8 @@
 The Game is called Solitaire
 It is a single player game
 
+Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
+
 Controls:
 - Drag and drop the cards
 - Press D to deal again
