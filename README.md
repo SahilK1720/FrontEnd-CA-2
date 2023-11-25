@@ -5,7 +5,7 @@
 
 Note:
 - Please open the game in full screen mode.
-- Also the images and the sound in the beginning take some time to load, like the audio image especially on the first page, so please wait for few seconds to load all the images.  start.
+- Also the images and the sound in the beginning take some time to load, like the audio image especially on the first page, so please wait for few seconds to load all the images. It would take 5-10 clicks on the speaker icon to change, I don't know why but it definitely works.
 - This game is mostly computer/laptop preferred game and not for mobile UI.
 
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
