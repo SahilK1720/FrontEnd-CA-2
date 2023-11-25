@@ -124,4 +124,26 @@ button{
     }
 }
 
+@media screen and (max-width: 310px){
+    .logo img{
+        height: 9rem;
+        width: 9rem;
+        top: 5%;
+    }
+
+
+    .result{
+        width: 59vw;
+        height: 48vh;
+        padding-left: 11%;
+        padding-top: 3%;
+    }
+
+    button {
+        height: 1.5rem;
+        width: 5rem;
+        font-size: 0.7rem;
+    }
+
+}
 
