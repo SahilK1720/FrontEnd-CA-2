@@ -4,8 +4,8 @@
 
 Note:
 - Please open the game in full screen mode.
-- Also the images in the beginning take some time to load, like the audio image.
-- This game is computer/laptop preferred game.
+- Also the images in the beginning take some time to load, like the audio image especially on the first page.
+- This game is mostly computer/laptop preferred game and not for mobile UI.
 
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
 
