@@ -1,6 +1,6 @@
 # FrontEnd-CA-2
-The Game is called Solitaire
-It is a single player game
+- The Game is called Solitaire
+- It is a single player game
 
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
 
@@ -33,6 +33,9 @@ The resources I have used are:
 - codepen.io/bfa/pen/ggGYeE
 - github.com/warpdesign/html5-solitaire-js
 - github.com/ozboware/Javascript-Aces-Up-Solitaire
+- editor.audio/
+- pixabay.com/sound-effects/search/card/
+- fonts.google.com/specimen/Raleway
 
 
 ![Start](https://github.com/SahilK1720/FrontEnd-CA-2/assets/144338853/c5b2ccc9-d8ba-40b0-a0e0-b99a34a610af)
