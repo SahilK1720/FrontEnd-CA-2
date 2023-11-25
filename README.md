@@ -4,7 +4,8 @@
 
 Note:
 - Please open the game in full screen mode.
-- Also the images in the beginning take some time to load like the audio image.
+- Also the images in the beginning take some time to load, like the audio image.
+- This game is computer/laptop preferred game.
 
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
 
@@ -29,6 +30,7 @@ The intstructions to play the game are as follows:
 - If there are no more moves available, press D to deal again and play to win.
 
 The resources I have used are:
+- coolors.co
 - flaticon.com
 - w3schools.com
 - Youtube.com
@@ -36,7 +38,6 @@ The resources I have used are:
 - codepen.io/Mobius1/pen/PpJPKE
 - codepen.io/bfa/pen/ggGYeE
 - github.com/warpdesign/html5-solitaire-js
-- github.com/ozboware/Javascript-Aces-Up-Solitaire
 - editor.audio/
 - pixabay.com/sound-effects/search/card/
 - fonts.google.com/specimen/Raleway
