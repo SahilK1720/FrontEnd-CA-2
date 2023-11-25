@@ -2,6 +2,10 @@
 - The Game is called Solitaire
 - It is a single player game
 
+Note:
+- Please open the game in full screen mode.
+- Also the images in the beginning take some time to load like the audio image.
+
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
 
 Controls:
