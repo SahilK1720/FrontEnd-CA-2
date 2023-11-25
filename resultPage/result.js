@@ -23,7 +23,7 @@ playAgain.addEventListener("click", function(){
 const win = document.getElementById("compliment");
 
 // Array of values
-const randomValues = ["Good Work!", "Hurray!", "Cheers!🥂", "Congratulations!", "Hear-Hear!"];
+const randomValues = ["Incredible Win!", "Hurray!", "Cheers!🥂", "Congratulations!", "Hear-Hear!"];
 
 // Function to get a random value from the array
 function getRandomValue(arr) {
