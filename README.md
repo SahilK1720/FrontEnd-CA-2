@@ -1,10 +1,11 @@
 # FrontEnd-CA-2
 - The Game is called Solitaire
 - It is a single player game
+- There are 4 screens - The start page, instruction page, game page and result page.
 
 Note:
 - Please open the game in full screen mode.
-- Also the images in the beginning take some time to load, like the audio image especially on the first page.
+- Also the images and the sound in the beginning take some time to load, like the audio image especially on the first page, so please wait for few seconds to load all the images.  start.
 - This game is mostly computer/laptop preferred game and not for mobile UI.
 
 Deployed link - https://6560d3cfa48fb40008db5549--phenomenal-brigadeiros-85c2e2.netlify.app/
@@ -37,7 +38,6 @@ The resources I have used are:
 - codepen.io/SgiobairOg/pen/MOmaRy
 - codepen.io/Mobius1/pen/PpJPKE
 - codepen.io/bfa/pen/ggGYeE
-- github.com/warpdesign/html5-solitaire-js
 - editor.audio/
 - pixabay.com/sound-effects/search/card/
 - fonts.google.com/specimen/Raleway
